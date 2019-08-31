@@ -1,0 +1,10 @@
+C:\Users\Milosz\Desktop\Programowanie\WyscigChartow\Wyscig\Wyscig\obj\Debug\Wyscig.csprojAssemblyReference.cache
+C:\Users\Milosz\Desktop\Programowanie\WyscigChartow\Wyscig\Wyscig\obj\Debug\Wyscig.Form1.resources
+C:\Users\Milosz\Desktop\Programowanie\WyscigChartow\Wyscig\Wyscig\obj\Debug\Wyscig.Properties.Resources.resources
+C:\Users\Milosz\Desktop\Programowanie\WyscigChartow\Wyscig\Wyscig\obj\Debug\Wyscig.csproj.GenerateResource.cache
+C:\Users\Milosz\Desktop\Programowanie\WyscigChartow\Wyscig\Wyscig\obj\Debug\Wyscig.csproj.CoreCompileInputs.cache
+C:\Users\Milosz\Desktop\Programowanie\WyscigChartow\Wyscig\Wyscig\bin\Debug\Wyscig.exe.config
+C:\Users\Milosz\Desktop\Programowanie\WyscigChartow\Wyscig\Wyscig\bin\Debug\Wyscig.exe
+C:\Users\Milosz\Desktop\Programowanie\WyscigChartow\Wyscig\Wyscig\bin\Debug\Wyscig.pdb
+C:\Users\Milosz\Desktop\Programowanie\WyscigChartow\Wyscig\Wyscig\obj\Debug\Wyscig.exe
+C:\Users\Milosz\Desktop\Programowanie\WyscigChartow\Wyscig\Wyscig\obj\Debug\Wyscig.pdb
